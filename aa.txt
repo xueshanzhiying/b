@@ -11,3 +11,5 @@
     seconds = this.setTimeDateFmt(seconds)
     return now.getFullYear().toString() + month.toString() + day + hour + minutes + seconds + (Math.round(Math.random() * 89 + 100)).toString()
    }
+
+这是版本号1.0
