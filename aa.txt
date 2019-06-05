@@ -12,4 +12,4 @@
     return now.getFullYear().toString() + month.toString() + day + hour + minutes + seconds + (Math.round(Math.random() * 89 + 100)).toString()
    }
 
-这是版本号2.0 修改了
+这是版本号3.0 修改了3.0
